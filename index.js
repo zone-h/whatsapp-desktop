@@ -1,5 +1,5 @@
 // Script dasar pemanggil fungsi electron
-//Ayo clon
+//Ayo clone
 //gunung mas code
 const path = require('path')
 const electron = require('electron')
