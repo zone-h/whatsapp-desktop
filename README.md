@@ -2,7 +2,7 @@
 
 > Unofficial Whatsapp Desktop
 
-[![](dist/img/screenshot.png)](https://github.com/razaqultegar/whatsapp-desktop/releases/latest)
+[![](dist/img/screenshot.png)](https://github.com/zone-h/whatsapp-desktop/releases/latest)
 
 ## How to Install
 
@@ -37,4 +37,4 @@ Replace all instances of `/path/to` with the actual path of the Whatsapp.
 
 ## License
 
-MIT © [Razaqul Tegar]
+MIT © [Kriz]
