@@ -8,7 +8,7 @@
 
 ```sh
 # Clone the Quick Start repository
-$ git clone https://github.com/razaqultegar/whatsapp-desktop.git
+$ git clone https://github.com/zone-h/whatsapp-desktop.git
 
 # Go into the repository
 $ cd whatsapp-desktop
