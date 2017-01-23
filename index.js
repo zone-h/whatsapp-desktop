@@ -1,4 +1,6 @@
 // Script dasar pemanggil fungsi electron
+//Ayo clon
+//gunung mas code
 const path = require('path')
 const electron = require('electron')
 const {app, BrowserWindow} = electron
