@@ -13,6 +13,9 @@ $ git clone https://github.com/zone-h/whatsapp-desktop.git
 # Go into the repository
 $ cd whatsapp-desktop
 
+# install
+$ sudo apt install nodejs-legacy
+
 # Install the dependencies and run
 $ npm install && npm start
 ```
